@@ -2,7 +2,10 @@ Bu rapor, Türkiye genelinde farklı bölgelere göre otomobil satış verilerin
 
 Özellikler:
 
-Bölgelere göre satış adetlerinin harita üzerinde görselleştirilmesi,
-Markalara göre en yüksek ve en düşük satış performanslarının analizi,
-Satıcı bazlı satış adetlerinin ve fiyatlarının grafiklerle karşılaştırılması,
+Bölgelere göre satış adetlerinin harita üzerinde görselleştirilmesi.
+
+Markalara göre en yüksek ve en düşük satış performanslarının analizi.
+
+Satıcı bazlı satış adetlerinin ve fiyatlarının grafiklerle karşılaştırılması.
+
 Ürün maliyetlerine dair detaylı verilerin sunulması...
